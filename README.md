@@ -1,6 +1,7 @@
 ## Hi👋, I am Mintu
 ## web developer
-![web developer](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
+<p>I am a web developer. I am dedicated and passionate about MERN stack web development. I am always searching for new technology to enrich & explore my knowledge. I have workable knowledge in the web development sector like Frontend, Backend, and MERN stack.</p>
+<!-- ![web developer](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg) -->
 
 - 🌱 I’m currently learning Redux & Typescript 
 - 📫 How to reach me: mintosarker707@gmail.com
