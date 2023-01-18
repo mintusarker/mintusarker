@@ -1,6 +1,6 @@
 ## Hi👋, I am Mintu
 ## web developer
-![web developer](https://assets.bitdegree.org/online-learning-platforms/storage/media/2018/08/what-is-a-web-developer.jpg)
+![web developer](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
 
 - 🌱 I’m currently learning Redux & Typescript 
 - 📫 How to reach me: mintosarker707@gmail.com 
