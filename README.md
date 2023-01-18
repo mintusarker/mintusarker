@@ -1,6 +1,6 @@
 ## Hi👋, I am Mintu
 ## web developer
-![web developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhCRLhhe2_QzrhYnQhHJ3ZXP_Vto5ntjR1UNPmz0czsYOR_m8093TyvcyH4vaQYML6mg&usqp=CAU)
+![web developer](https://qph.cf2.quoracdn.net/main-qimg-5d2433559ef9eb510bf589bbf559c363-lq)
 
 - 🌱 I’m currently learning Redux & Typescript 
 - 📫 How to reach me: mintosarker707@gmail.com 
