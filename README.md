@@ -9,8 +9,8 @@
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mintusarker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/minto-sarker/)   -->
 <!-- <br/> -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -24,12 +24,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 <!-- <br/> -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
 <!-- <br/>   -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker&" alt="mintusarker" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker&" alt="mintusarker" /></p>
 <br/>
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
 </div>  
