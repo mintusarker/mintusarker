@@ -1,5 +1,3 @@
-## Hi👋, I am Mintu
-## web developer
 <p>I am a web developer. I am dedicated and passionate about web development. I am always searching for new technology to enrich & explore my knowledge. I have workable knowledge in the web development sector like Frontend, Backend, and MERN stack.</p>
 <!-- ![web developer](https://www.analyticsinsight.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg) -->
 
@@ -24,9 +22,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 
-<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker&" alt="mintusarker" /></p>
 <br/>
