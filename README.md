@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning Redux & Typescript  -->
 - ❓ Ask me about anything related to **web development**
 - 📫 How to reach me: sarkermintu707@gmail.com
-
+<br/>
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mintusarker) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/minto-sarker/)   -->
 <!-- <br/> -->
 <h3 align="left">Languages and Tools:</h3>
@@ -21,13 +21,23 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> </p>
 
-
+<br/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
-
+<br/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker" alt="mintusarker" /></p>
 <br/>
-<div align="left">
+<!-- <div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
-</div>  
+</div>   -->
+
+##
+<div align="left">
+<a href="https://linkedin.com/in/Minto Sarker" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Mintu Sarker" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>
