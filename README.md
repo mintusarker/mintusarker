@@ -29,9 +29,9 @@
 <br/>  
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker&theme=dracula" alt="mintusarker" /></p>
 <br/>
-<div align="left">
+<!-- <div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
-</div>  
+</div>   -->
 
 ##
 <div align="left">
