@@ -20,13 +20,15 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> </p>
 
+## 📊 GitHub Status:
 <br/>
-<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&theme=dracula&hide_border=true&layout=compact" align="center" /></div>  
 <br/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker" alt="mintusarker" /></p>
-<br/> -->
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker&theme=dracula" alt="mintusarker" /></p>
+<br/>
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
 </div>  
