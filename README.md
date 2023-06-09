@@ -21,7 +21,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> </p>
 
 <br/>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
+<!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&hide_border=true&layout=compact" align="center" /></div>  
 <br/>
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
@@ -29,7 +29,7 @@
 <br/>
 <!-- <div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
-</div>   -->
+</div>   --> -->
 
 ##
 <div align="left">
