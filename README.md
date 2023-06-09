@@ -26,10 +26,10 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mintusarker" alt="mintusarker" /></p>
-<br/>
-<!-- <div align="left">
+<br/> -->
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=mintusarker&&style=flat-square" align="center" />
-</div>   --> -->
+</div>  
 
 ##
 <div align="left">
