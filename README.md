@@ -22,8 +22,8 @@
 
 ## 📊 GitHub Status:
 <br/>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mintusarker&theme=dracula&show_icons=true&locale=en&layout=compact" alt="mintusarker" /></div>
 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mintusarker&theme=dracula&hide_border=true&layout=compact" align="center" /></div>  
 <br/>
 <!-- <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=mintusarker&theme=dracula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
