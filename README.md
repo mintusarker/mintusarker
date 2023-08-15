@@ -4,7 +4,6 @@
 <!-- - 🌱 I’m currently learning Redux & Typescript  -->
 - ❓ Ask me about anything related to **web development**
 - 📫 How to reach me: sarkermintu707@gmail.com
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
