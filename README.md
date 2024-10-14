@@ -1,6 +1,6 @@
 ## 💫 About Me:
 I am a web developer. I am dedicated and passionate about web development. I am always searching for new technology to enrich & explore my knowledge. 
-I have workable knowledge in the web development sector like Frontend, Backend, and MERN stack.<br><br>
+I have workable knowledge in the web development sector like Frontend, Backend, and MERN stack.<br>
 - ❓ Ask me about anything related to web development<br>
 - 📫 How to reach me: sarkermintu707@gmail.com<br>  
 - 🌱 What's App/Phone : +8801911697072
