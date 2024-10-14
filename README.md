@@ -4,7 +4,8 @@
 <!-- - 🌱 I’m currently learning Redux & Typescript  -->
 - ❓ Ask me about anything related to **web development**
 - 📫 How to reach me: sarkermintu707@gmail.com
--  What's App/Phone : +8801911697072
+-  ![image](https://github.com/user-attachments/assets/0278adbb-40a0-440b-9e42-9bddc4e1739c)
+  What's App/Phone : +8801911697072
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
